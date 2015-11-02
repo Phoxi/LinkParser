@@ -1,0 +1,5 @@
+site=http://www.wykop.pl/
+external_links=true
+show_links=true
+show_source=true
+number=5
